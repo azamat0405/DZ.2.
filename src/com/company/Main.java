@@ -11,7 +11,7 @@ public class Main {
 
     public static String wind(int age, int temp) {
         if (age > 20 && age < 45 && temp > -20 && temp < 30) {
-            return "можно прогуляться";
+            return "можно ++прогуляться";
 
         } else if (age > 20 && temp > 0 && temp > 30) {
             return "можно прогуляться";
